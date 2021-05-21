@@ -1,0 +1,48 @@
+H:\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.exe.config
+H:\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.exe
+H:\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.pdb
+H:\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.xml
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.vbprojAssemblyReference.cache
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII_art_generator.Form1.resources
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII_art_generator.Resources.resources
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.vbproj.GenerateResource.cache
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.vbproj.CoreCompileInputs.cache
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.exe
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.xml
+H:\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.pdb
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\bin\Debug\ASCII art generator.exe.config
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\bin\Debug\ASCII art generator.exe
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\bin\Debug\ASCII art generator.pdb
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\bin\Debug\ASCII art generator.xml
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII art generator.vbprojAssemblyReference.cache
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII_art_generator.Form1.resources
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII_art_generator.Resources.resources
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII art generator.vbproj.GenerateResource.cache
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII art generator.vbproj.CoreCompileInputs.cache
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII art generator.exe
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII art generator.xml
+f:\Users\Children Games\Documents\Dylan\Coding\ASCII art generator\obj\Debug\ASCII art generator.pdb
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.exe.config
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.exe
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.pdb
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\bin\Debug\ASCII art generator.xml
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.vbprojAssemblyReference.cache
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII_art_generator.Form1.resources
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII_art_generator.Resources.resources
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.vbproj.GenerateResource.cache
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.vbproj.CoreCompileInputs.cache
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.exe
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.xml
+\\ex-sr-file02\exa-studentwork$\Hadrian\Intake2016\GarrattD.16\Documents\GCSE\Computer Science\ASCII art generator\obj\Debug\ASCII art generator.pdb
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\bin\Debug\ASCII art generator.exe.config
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\bin\Debug\ASCII art generator.exe
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\bin\Debug\ASCII art generator.pdb
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\bin\Debug\ASCII art generator.xml
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.vbprojAssemblyReference.cache
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII_art_generator.Form1.resources
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII_art_generator.Resources.resources
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.vbproj.GenerateResource.cache
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.vbproj.CoreCompileInputs.cache
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.exe
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.xml
+C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.pdb
