@@ -46,3 +46,15 @@ C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator
 C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.exe
 C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.xml
 C:\Users\Children games\Documents\GitHub\ASCII-art-generator\ASCII art generator\obj\Debug\ASCII art generator.pdb
+C:\Users\s2118569\Documents\ASCII art generator\bin\Debug\ASCII art generator.exe.config
+C:\Users\s2118569\Documents\ASCII art generator\bin\Debug\ASCII art generator.exe
+C:\Users\s2118569\Documents\ASCII art generator\bin\Debug\ASCII art generator.pdb
+C:\Users\s2118569\Documents\ASCII art generator\bin\Debug\ASCII art generator.xml
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII art generator.vbprojResolveAssemblyReference.cache
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII_art_generator.Form1.resources
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII_art_generator.Resources.resources
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII art generator.vbproj.GenerateResource.Cache
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII art generator.vbproj.CoreCompileInputs.cache
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII art generator.exe
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII art generator.xml
+C:\Users\s2118569\Documents\ASCII art generator\obj\Debug\ASCII art generator.pdb

@@ -174,12 +174,17 @@ Public Class Form1
         'declare the lookup table for the gradient, in order from light to dark
         Dim TextTable() As String = {"  ", "..", ",,", "::", ";;", "~~", "--", "++", "ii", "!!", "ll", "II", "??", "rr", "cc", "vv", "uu", "LL", "CC", "JJ", "UU", "YY", "XX", "ZZ", "00", "QQ", "WW", "MM", "BB", "88", "&&", "%%", "$$", "##", "@@"}
 
+
         'iterate through each new large pixel, set the corresponding part of the array to the relevant text, based on the brightness
         For y As Integer = 0 To bm.Height - 1 Step pixelSize
             For x As Integer = 0 To bm.Width - 1 Step pixelSize
                 brightness = bm.GetPixel(x, y).GetBrightness()
                 position = brightness / Convert.ToDouble(1 / TextTable.Length)
-                asciiArt(x / pixelSize, y / pixelSize) = TextTable(position - 1)
+                Try
+                    asciiArt(x / pixelSize, y / pixelSize) = TextTable(position - 1)
+                Catch
+                    asciiArt(x / pixelSize, y / pixelSize) = "  "
+                End Try
             Next
         Next
 
@@ -194,4 +199,6 @@ Public Class Form1
         pixelSize = Int(TrackBar1.Value)
         If Not PictureBox1.BackgroundImage Is Nothing Then ImageFunctions(sourceImage)
     End Sub
+
+
 End Class
